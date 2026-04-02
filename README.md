@@ -24,7 +24,7 @@ This Terraform project demonstrates the deployment of a scalable, secure, and hi
 
 Before deploying, you need:
 
-1. `Terraform >= 1.5` installed on your machine
+1. `Terraform >= 1.4` installed on your machine
 2. `AWS CLI` configured with credentials that have permissions to create EC2, VPC, ALB, NAT, and security groups
 3. `SSH key pair` in AWS (used for Bastion and EC2 instances)
 
